@@ -1,4 +1,6 @@
 # Python-generated files
+.env
+data/*.xlsx
 __pycache__/
 *.py[oc]
 build/
